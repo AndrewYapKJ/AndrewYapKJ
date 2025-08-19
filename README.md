@@ -1,4 +1,4 @@
-<!--
+
 ## Hi there 👋
 
 <img  align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=AndrewYapKJ" />
@@ -7,6 +7,7 @@
 
 <img  align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=AndrewYapKJ" />
 <img  align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewYapKJ">
+<!--
 **AndrewYapKJ/AndrewYapKJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
